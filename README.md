@@ -1,22 +1,29 @@
-# C++ Programming Journey
+# DSA in C++
 
-A collection of C++ programs created while learning and practicing
-C++ programming fundamentals.
+A structured collection of Data Structures and Algorithms implemented
+in C++.
 
-## Topics Covered
+## Topics
 
-- Basic Input/Output
-- Operators
-- Conditional Statements
-- Loops
-- Functions
 - Arrays
 - Strings
+- Recursion
 - Searching
 - Sorting
-- Basic Problem Solving
+- Linked Lists
+- Stacks
+- Queues
+- Trees
+- Heaps
+- Hashing
+- Graphs
+- Dynamic Programming
 
-## Purpose
+## Goal
 
-This repository documents my C++ learning journey and provides
-practice programs for strengthening programming fundamentals.
+To strengthen problem-solving skills and build a strong foundation in
+Data Structures and Algorithms using C++.
+
+## Language
+
+C++
