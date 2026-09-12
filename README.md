@@ -1,4 +1,4 @@
-# C++ Basics and Practice
+# C++ Programming Journey
 
 A collection of C++ programs created while learning and practicing
 C++ programming fundamentals.
