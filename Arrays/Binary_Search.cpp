@@ -6,11 +6,11 @@ int main() {
     int key = 56;
     bool found = false;
 
-    int start = 0, end = n - 1;
+    int low = 0, high = n - 1;
     int mid;
 
-    while (start <= end) {
-        mid = (start + end) / 2;
+    while (low <= high) {
+        mid = (low + high) / 2;
 
         if (a[mid] == key) {
             cout << "Element found at index " << mid << endl;
@@ -18,10 +18,10 @@ int main() {
             break;
         }
         else if (a[mid] < key) {  
-            start = mid + 1;
+            low = mid + 1;
         }
         else {
-            end = mid - 1;
+            high = mid - 1;
         }
     }
 
